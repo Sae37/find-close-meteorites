@@ -1,4 +1,5 @@
 ## ACG Python smple code for reading NASA meteorite impacts
+## Update via UBUNTU
 
 import math
 import requests
